@@ -1,0 +1,16 @@
+/* css_test_inheritance_01.css */
+body,h1,h2,p,em {
+    font-family: monospace;
+}
+h1 {
+    color: blue;
+}
+h2 {
+    color: red;
+}
+p {
+    color: brown
+}
+em {
+    color: gray
+}

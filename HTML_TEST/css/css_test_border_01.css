@@ -1,0 +1,11 @@
+/* css_test_border_01.css */
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p.contents_border_effect {
+    font-size: 20px;
+    border-color: brown;
+    border-width: 2px;
+    border-style: solid;
+    background-color: beige;
+}

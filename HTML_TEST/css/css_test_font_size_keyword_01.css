@@ -1,0 +1,22 @@
+/* css_test_font_size_keyword_01.css */
+body {
+    font-family: Verdana, Tahoma, sans-serif;
+}
+p.font_small {
+    font-size: small;
+}
+p.font_12px {
+    font-size: 12px;
+}
+p.font_medium {
+    font-size: medium;
+}
+p.font_16px {
+    font-size: 16px;
+}
+p.font_large {
+    font-size: large;
+}
+p.font_20px {
+    font-size: 18px;
+}

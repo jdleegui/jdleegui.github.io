@@ -1,0 +1,20 @@
+/* css_test_font_weight_sytle_02.css */
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+}
+h1 {
+    font-size: 2.0em;
+    font-weight: bolder;
+    font-style: italic;
+}
+h2 {
+    font-size: 1.0em;
+    font-weight: normal;
+    font-style: normal;
+}
+h3 {
+    font-size: 100%;
+    font-weight: lighter;
+    font-style: oblique;
+}

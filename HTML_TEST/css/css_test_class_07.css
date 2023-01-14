@@ -1,0 +1,11 @@
+/* css_test_class_07.html
+css_test_class_07.css */
+body {
+    font-family: sans-serif;
+}
+.effect_color {
+    color: gray;
+}
+.effect_bg_color {
+    background-color: green;
+}

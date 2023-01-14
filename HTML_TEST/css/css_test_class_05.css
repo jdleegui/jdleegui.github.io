@@ -1,0 +1,14 @@
+/* css_test_class_05.html, css_test_class_05.css */
+body {
+    font-family: monospace;
+    color: brown;
+}
+p {
+    color: blue;
+}
+.mark_one {
+    color: red;
+}
+h1.mark_two {
+    color: green;
+}

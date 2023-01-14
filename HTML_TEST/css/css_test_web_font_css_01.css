@@ -1,0 +1,6 @@
+/* css_test_web_font_css_01.css */
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&family=Noto+Sans+KR:wght@500&display=swap');
+body {
+    font-family: 'Nanum Pen Script', cursive;
+    font-family: 'Noto Sans KR', sans-serif;    
+}

@@ -1,0 +1,8 @@
+/* css_test_font_01.html css_test_font_01.css */
+body {
+    font-family: monospace;
+    font-size: 14px;
+    color: brown;
+    font-weight: bold;
+    text-decoration: overline;
+}

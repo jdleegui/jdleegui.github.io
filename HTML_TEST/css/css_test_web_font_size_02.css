@@ -1,0 +1,14 @@
+/* css_test_web_font_size_02.css */
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+p.font_size_01 {
+    font-size: 20px;
+}
+p.font_size_02 {
+    font-size: 50%;
+}
+p.font_size_03 {
+    font-size: 0.5em;
+}

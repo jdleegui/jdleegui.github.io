@@ -1,0 +1,15 @@
+/* css_test_class_08.html
+css_test_class_08.css */
+
+body {
+    font-family: sans-serif;
+}
+.effect_color {
+    color: gray;
+}
+.effect_bg_color {
+    background-color: green;
+}
+.effect_underline {
+    border-bottom: 4px solid black;
+}

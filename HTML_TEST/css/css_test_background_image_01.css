@@ -1,0 +1,22 @@
+/* css_test_margin_01.css */
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p.title_border_effect {
+    font-size: 24px;
+    border-color: blue;
+    border-width: 4px;
+    border-style: dotted;
+    background-color: yellow;
+    padding: 40px;
+}
+p.contents_border_effect {
+    font-size: 20px;
+    border-color: brown;
+    border-width: 2px;
+    border-style: solid;
+    background-color: beige;
+    padding: 30px;
+    margin: 25px;
+    background-image: url(../images/snow.png);
+}

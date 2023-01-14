@@ -1,0 +1,10 @@
+/* css_test_font_size_keyword_02.css */
+body {
+    font-family: Verdana, Tahoma, sans-serif;
+}
+p.font_x-small {
+    font-size: x-small;
+}
+p.font_small {
+    font-size: small;
+}

@@ -1,0 +1,19 @@
+/* css_test_padding_01.css */
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p.contents_border_effect {
+    font-size: 20px;
+    border-color: brown;
+    border-width: 2px;
+    border-style: solid;
+    background-color: beige;
+}
+p.title_border_effect {
+    font-size: 24px;
+    border-color: blue;
+    border-width: 4px;
+    padding: 30px;
+    border-style: dotted;
+    background-color: yellow;
+}

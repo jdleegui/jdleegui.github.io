@@ -1,0 +1,13 @@
+/* css_test_font_02.html css/css_test_font_02.css */
+body {
+    /* font-family: monospace; */
+    /* font-size: 14px; */
+    /* color: brown; */
+    /* font-weight: bold; */
+    /* text-decoration: overline; */    
+    font-family: sans-serif;
+    font-size: 20px;
+    color: green;
+    font-weight: normal;
+    text-decoration: line-through;
+}
