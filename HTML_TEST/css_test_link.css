@@ -1,0 +1,9 @@
+/* css_test_link.css */
+
+h1,p {
+    font-family: sans-serif;
+    color: blueviolet;
+}
+p {
+    border-bottom: 1px solid gold;
+}
